@@ -69,7 +69,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 -   H.M.YOUSUF
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yousuf-2010)
+- Frontend Mentor - [@hmyousuf](https://www.frontendmentor.io/profile/yousuf-2010)
 
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
